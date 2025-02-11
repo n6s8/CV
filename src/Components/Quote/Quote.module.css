@@ -1,0 +1,89 @@
+.main{
+}
+.blog{
+}
+.context{
+    border: 1px solid white;
+    width: 712px;
+    height: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 658px;
+    left: 326px;
+}
+.context p{
+    font-family: 'Fira Code', monospace;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+.author{
+    border-bottom: 1px solid white ;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-top: none;
+
+    width: 162px;
+    height: 63px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 753px;
+    left: 876px;
+
+}
+.author p{
+    font-family: 'Fira Code', monospace;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+.box{
+    width: 91px;
+    height: 91px;
+
+
+    border-bottom: 1px solid white ;
+    border-left: 1px solid white;
+    border-right: none;
+    border-top: 1px solid white;
+
+    position: absolute;
+    top: 672px;
+    left: 1332px;
+}
+
+.symbol{
+    transform: scaleY(1);
+    width: 25.47px;
+    height: 20.7px;
+}
+.img1{
+    position: absolute;
+    top: 644px;
+    left: 337px;
+    width: 41.47px;
+    height: 28.7px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img2{
+    position: absolute;
+    top: 738px;
+    left: 980px;
+    width: 41.47px;
+    height: 28.7px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

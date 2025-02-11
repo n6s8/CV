@@ -1,0 +1,83 @@
+.main{
+    position: absolute;
+    top: 1991px;
+    left: 170px;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+
+    gap: 1rem;
+
+    height: 42px;
+    align-items: center;
+}
+.text{
+    height: 42px;
+}
+.text p{
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+    color: white;
+}
+.text span{
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+    color: #C778DD;
+}
+.vector{
+    width: 511px;
+    height: 1px;
+    background-color: #C778DD;
+}
+.history{
+    width: 515px;
+    height: 376px;
+    display: flex;
+    flex-direction: column;
+    gap: 27px;
+
+    top: 65px;
+    left: 0px;
+}
+.history p{
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
+    color: gray;
+}
+.click{
+    width: 148px;
+    height: 37px;
+    border: 1px solid #C778DD;
+    color: white;
+    cursor: pointer;
+}
+.full{
+    position: absolute;
+    top: 59px;
+    left: 681px;
+    width: 84px;
+    height: 84px;
+}
+.horizontal{
+    position: absolute;
+    top: 279px;
+    left: 905px;
+    width: 104px;
+    height: 56px;
+}
+.right{
+    position: absolute;
+    top: 303px;
+    left: 1150px;
+    width: 103px;
+    height: 103px;
+}
+.left{
+    position: absolute;
+    top: 134px;
+    left: -247px;
+    border: 1px solid white;
+    width: 155px;
+    height: 155px;
+}

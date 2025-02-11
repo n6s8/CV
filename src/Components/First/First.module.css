@@ -1,0 +1,91 @@
+.main{
+    width: 1024px;
+
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 30px;
+
+    width: 537px;
+}
+.white{
+    color: white;
+}
+.purple{
+    color: #C778DD;
+}
+.detail{
+    width: 537px;
+
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+
+}
+.detail1{
+    width: 537px;
+    height: 50px;
+
+    font-family: "Fira Code", monospace;
+    color: #ABB2BF;
+}
+.btn{
+    width: 148px;
+    height: 37px;
+
+    border: 1px solid #C778DD;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.outline{
+    width: 155px;
+    height: 155px;
+}
+.MainImg{
+    width: 469px;
+    height: 386px;
+}
+.ImgBlock{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.Last{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.current{
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    align-items: center;
+
+    gap: 20px;
+
+    width: 402px;
+    height: 37px;
+    border: 1px solid white;
+}
+.BtnPurple{
+
+    width: 16px;
+    height: 16px;
+    background-color: #C778DD;
+    border: none;
+}
+.grey{
+    font-family: 'Fira Code', monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+}

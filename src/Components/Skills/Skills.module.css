@@ -1,0 +1,307 @@
+.main{
+    position: absolute;
+    top: 1514px;
+    left: 173px;
+
+    width: 1024px;
+    height: 365px;
+
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+
+    gap: 1rem;
+
+    width: 391px;
+    height: 42px;
+    align-items: center;
+}
+.text{
+    width: 174px;
+    height: 42px;
+}
+.text p{
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+    color: white;
+}
+.text span{
+    font-family: "Fira Code", monospace;
+    font-size: 32px;
+    color: #C778DD;
+}
+.vector{
+    width: 511px;
+    height: 1px;
+    background-color: #C778DD;
+}
+.blogs{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+
+    width: 349px;
+    height: 282px;
+
+}
+.big{
+    position: absolute;
+    top: 0px;
+    left: 257px;
+
+    width: 86px;
+    height: 86px;
+    border: 1px solid white;
+}
+.small{
+    width: 52px;
+    height: 52px;
+
+    position: absolute;
+    top: 193px;
+    left: 327px;
+
+    border: 1px solid white;
+}
+.outline{
+    width: 113px;
+    height: 113px;
+
+    position: absolute;
+    top: 169px;
+    left: 45px;
+}
+#1568
+#205
+.dots1{
+    position: absolute;
+    top: 38px;
+    left: 30px;
+
+    width: 63px;
+    height: 63px;
+}
+.dots2{
+    position: absolute;
+    top: 143px;
+    left: 207px;
+
+    width: 63px;
+    height: 63px;
+}
+#613px
+#1599px
+.tools{
+    position: absolute;
+    top: 85px;
+    left: 440px;
+
+    background-color: white;
+
+    width: 584px;
+    height: 280px;
+}
+
+
+.frameworks{
+    position: absolute;
+    top: 233px;
+    left: 828px;
+
+    width: 196px;
+    height: 132px;
+
+    border: 1px solid white;
+
+    display: flex;
+    flex-direction: column;
+}
+.frameworks h1{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: white;
+
+    height: 21px;
+    width: 100%;
+    border-bottom: 1px solid white;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.frameworks p{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
+
+.other{
+    position: absolute;
+    top: 204px;
+    left: 634px;
+
+    width: 178px;
+    height: 103px;
+
+    border: 1px solid white;
+
+    display: flex;
+    flex-direction: column;
+}
+.other h1{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: white;
+
+    height: 21px;
+    width: 100%;
+    border-bottom: 1px solid white;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.other p{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
+
+
+
+
+
+.customtools{
+    position: absolute;
+    top: 85px;
+    left: 828px;
+
+    width: 196px;
+    height: 132px;
+
+    border: 1px solid white;
+
+    display: flex;
+    flex-direction: column;
+}
+.customtools h1{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: white;
+
+    height: 21px;
+    width: 100%;
+    border-bottom: 1px solid white;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.customtools p{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+.databases{
+    position: absolute;
+    top: 85px;
+    left: 634px;
+
+    width: 178px;
+    height: 103px;
+
+    border: 1px solid white;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+.databases h1{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: white;
+
+    height: 21px;
+    width: 100%;
+    border-bottom: 1px solid white;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.databases p{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}
+
+
+
+
+
+.languages{
+    position: absolute;
+    top: 85px;
+    left: 440px;
+
+    width: 178px;
+    height: 103px;
+
+    border: 1px solid white;
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+.languages h1{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: white;
+
+    height: 21px;
+    width: 100%;
+    border-bottom: 1px solid white;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.languages p{
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    color: #ABB2BF;
+
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px;
+}

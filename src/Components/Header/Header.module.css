@@ -1,0 +1,42 @@
+.main{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.block{
+
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+
+}
+.union{
+    width: 16px;
+    height: 16px;
+}
+.name{
+    width: 48px;
+    height: 21px;
+
+    font-family: "Fira Code", monospace;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+.symbol{
+    color: #C778DD;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.items{
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    color:  white;
+}
