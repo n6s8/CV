@@ -1,8 +1,8 @@
 import styles from "./Footer.module.css";
 import logo from "../../assets/Logo.png";
 import github from "../../assets/github.png";
-import linkedin from "../../assets/LinkedIn.png";
-import youtube from "../../assets/YouTube.png";
+import linkedin from "../../assets/linkedin.png";
+import youtube from "../../assets/youtube.png";
 
 export default function Footer() {
   return (
