@@ -1,6 +1,6 @@
 import styles from "./Footer.module.css";
 import logo from "../../assets/Logo.png";
-import github from "../../assets/GitHub.png";
+import github from "../../assets/gitHub.png";
 import linkedin from "../../assets/LinkedIn.png";
 import youtube from "../../assets/YouTube.png";
 
