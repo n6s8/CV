@@ -33,17 +33,35 @@ export default function Contacts() {
 
           <div className={styles.item}>
             <img src={linkedin} alt="linkedin" />
-            <a href="https://www.linkedin.com/in/nurzhan-sultanov/">Linkedin</a>
+            <a
+              href="https://www.linkedin.com/in/nurzhan-sultanov/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Linkedin
+            </a>
           </div>
 
           <div className={styles.item}>
             <img src={youtube} alt="youtube" />
-            <a href="https://www.youtube.com/@Neponator">Neponator</a>
+            <a
+              href="https://www.youtube.com/@Neponator"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Neponator
+            </a>
           </div>
 
           <div className={styles.item}>
             <img src={github} alt="github" />
-            <a href="https://github.com/n6s8/">n6s8</a>
+            <a
+              href="https://github.com/n6s8/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              n6s8
+            </a>
           </div>
 
           <div className={styles.item}>
