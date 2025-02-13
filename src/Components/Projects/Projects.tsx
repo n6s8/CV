@@ -1,5 +1,5 @@
 import styles from "./Projects.module.css";
-import todolist from "../../assets/todolist.png";
+import todolist from "../../assets/todolist.svg";
 import twitter from "../../assets/twitter.png";
 import whatsapp from "./assets/whatsapp.png";
 
