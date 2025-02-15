@@ -1,5 +1,4 @@
 import styles from "./About.module.css";
-import full from "./assets/full.png";
 import horizontal from "./assets/horizontal.png";
 import right from "./assets/right.png";
 import photo from "../../assets/nurzhan_full.png";
