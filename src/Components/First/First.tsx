@@ -1,6 +1,6 @@
 import styles from "./First.module.css";
 import Outline from "../../assets/Outline.png";
-import Personal from "../../assets/Personal.jpg";
+import Personal from "../../assets/nurzhan_ava.png";
 
 export default function First() {
   return (

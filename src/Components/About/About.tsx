@@ -2,6 +2,7 @@ import styles from "./About.module.css";
 import full from "./assets/full.png";
 import horizontal from "./assets/horizontal.png";
 import right from "./assets/right.png";
+import photo from "../../assets/nurzhan_full.png";
 
 export default function About() {
   return (
@@ -16,7 +17,7 @@ export default function About() {
         <div className={styles.vector}></div>
       </div>
 
-      <div className={styles.history}>
+      <div className={styles.history} style={{ marginTop: "2rem" }}>
         <p>Hello, i'm Nurzhan</p>
         <p>
           I’m a self-taught front-end developer based in Astana, Kazakhstan. I
@@ -45,9 +46,10 @@ export default function About() {
         </button>
       </div>
 
-      <img src={full} alt="full" className={styles.full} />
+      {/* <img src={full} alt="full" className={styles.full} /> */}
       <img src={horizontal} alt="horizontal" className={styles.horizontal} />
       <img src={right} alt="right" className={styles.right} />
+      <img src={photo} alt="photo" className={styles.photo} />
       <div className={styles.left}></div>
     </div>
   );

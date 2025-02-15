@@ -81,3 +81,10 @@
     width: 155px;
     height: 155px;
 }
+.photo{
+    position: absolute;
+    width: 400px;
+    height: 507px;
+    top: 50px;
+    left: 686px;
+}
